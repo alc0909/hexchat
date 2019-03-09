@@ -1,0 +1,16 @@
+{
+  "name": "hexchat",
+  "version": "0.0.0",
+  "description": "hexchat",
+  "main": "app.js",
+  "author": {
+    "name": "MURAI"
+  },
+  "devDependencies": {
+    "@angular/cli": "^7.3.5",
+    "@types/node": "^6.0.87"
+  },
+  "dependencies": {
+    "@angular/cli": "^7.3.5"
+  }
+}
