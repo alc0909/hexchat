@@ -6,6 +6,9 @@ yarn-debug.log*
 yarn-error.log*
 firebase-debug.log*
 
+# skyway-js-sdk-tutorial
+/skyway-js-sdk-tutorial/
+
 # Firebase cache
 .firebase/
 
